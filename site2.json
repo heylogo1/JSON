@@ -7,7 +7,7 @@
 },{
  "type":0,
 "name":"天空资源",
-"api":"https://tiankongzy.com/api.php/provide/vod/at/xml"
+"api":"http://umao.ml/api.php/provide/vod/at/xml"
 },{
 "type":8,
 "name":"独播库",
