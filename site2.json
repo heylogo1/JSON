@@ -7,7 +7,7 @@
 },{
  "type":0,
 "name":"天空资源",
-"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml"
+"api":"https://api.tiankongapi.com/api.php/provide/vod/?ac=list"
 },{
 "type":8,
 "name":"独播库",
