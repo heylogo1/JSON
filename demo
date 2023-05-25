@@ -1,1 +1,15 @@
-
+{
+"uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
+"json":[{
+"type":0,
+"name":"唐人街",
+"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
+},{
+"type":0,
+"name":"红牛资源",
+"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml"
+},{
+"type":0,
+"name":"天堂资源",
+"api":"http://vipmv.cc/api.php/provide/vod/at/xml"
+}]}
