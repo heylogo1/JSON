@@ -1,4 +1,54 @@
 [
+
+
+	{
+		"name": "💎光速资源",
+		"api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎金鹰资源",
+		"api": "https://jyzyapi.com/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎虎牙资源",
+		"api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎红牛资源",
+		"api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎快车资源",
+		"api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎新浪资源",
+		"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎量子资源",
+		"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+		"group": "💎",
+		"notEdit": true
+	},
+	{
+		"name": "💎淘片资源",
+		"api": "https://taopianapi.com/cjapi/sda/vod/xml",
+		"group": "💎",
+		"notEdit": true
+	},
 	{
 		"name": "色屌丝",
 		"api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
