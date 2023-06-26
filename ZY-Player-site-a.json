@@ -1,7 +1,4 @@
-{
- "sites": {
-   "default":1,
-   "data":[
+[
   {
     "key": "量子资源",
     "name": "量子资源",
@@ -277,12 +274,8 @@
     "isActive": true,
     "type": 1,
     "id": 23
-  }                      
-]},
-"iptv":  {
-  "default":1,
-   "data":[
- {
+  },
+  {
     "name": "Ray直播",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
     "epg": "http://epg.112114.xyz",
@@ -309,11 +302,7 @@
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 4
-  }  
-]},
-"analyzes":  {"default":1,
-   "data":
-[
+  },
   {
     "name": "777",
     "url": "https://jx.777jiexi.com/player/?url=",
@@ -351,5 +340,3 @@
     "id": 6
   }
 ]
-}
-}
