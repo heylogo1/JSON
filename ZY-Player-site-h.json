@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "💎淘片资源",
-		"api": "https://taopianapi.com/cjapi/sda/vod/xml",
+		"api": "https://taopianapi.com/cjapi/mc/vod/xml.html",
 		"group": "💎",
 		"notEdit": true
 	},
