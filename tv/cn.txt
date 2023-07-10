@@ -1,0 +1,1435 @@
+🎀央视,#genre#
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV2,http://222.240.82.92:9901/tsfile/live/0002_1.m3u8
+CCTV2,http://183.196.25.171:808/hls/2/index.m3u8
+CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
+CCTV5,http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
+CCTV12,http://222.240.82.92:9901/tsfile/live/0012_1.m3u8
+CCTV12,http://183.196.25.171:808/hls/12/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV14,http://183.196.25.171:808/hls/14/index.m3u8
+CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
+CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
+CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
+CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
+📺8M专区,#genre#
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+移动央视,#genre#
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+
+
+🍭卫视,#genre#
+卫视,#genre#
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+重庆卫视,http://183.196.25.171:808/hls/43/index.m3u8
+吉林卫视,http://183.196.25.171:808/hls/47/index.m3u8#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
+广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8#http://183.196.25.171:808/hls/46/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
+广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
+山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+凤凰中文,http://r.jdshipin.com/cCCzW
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+❤️爱尚高清,#genre#
+CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4,http://live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4欧洲,http://live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5,http://live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5,http://live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV6,http://live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV7,http://live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV8,http://live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV9,http://live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV9,http://live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV10,http://live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV11,http://live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV12,http://live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV13,http://live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV14,http://live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV15,http://live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV16,http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CETV1,http://live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?CONTENTID=00000110240365_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+安徽卫视,http://live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+北京卫视,http://live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+东方卫视,http://live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+东南卫视,http://live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+广东卫视,http://live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+贵州卫视,http://live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+河北卫视,http://live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+黑龙江卫视,http://live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖北卫视,http://live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖南卫视,http://live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+吉林卫视,http://live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+江苏卫视,http://live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+江西卫视,http://live.aishang.ctlcdn.com/00000110240398_1/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+金鹰纪实,http://live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+辽宁卫视,http://live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+山东卫视,http://live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+深圳卫视,http://live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+天津卫视,http://live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+浙江卫视,http://live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+重庆卫视,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+🌾视界,#genre#
+CCTV-1 综合,http://bad-ass.site/php/histar.php?id=75
+CCTV-3 综艺,http://bad-ass.site/php/histar.php?id=98
+CCTV-4 中文国际,http://bad-ass.site/php/histar.php?id=99
+CCTV-5 体育,http://bad-ass.site/php/histar.php?id=100
+CCTV-6 电影,http://bad-ass.site/php/histar.php?id=101
+CCTV-7 国防军事,http://bad-ass.site/php/histar.php?id=102
+CCTV-8 电视剧,http://bad-ass.site/php/histar.php?id=103
+CCTV-9 纪录,http://bad-ass.site/php/histar.php?id=105
+CCTV-10 科教,http://bad-ass.site/php/histar.php?id=106
+CCTV-11 戏曲,http://bad-ass.site/php/histar.php?id=107
+CCTV-12 社会与法,http://bad-ass.site/php/histar.php?id=108
+CCTV-13 新闻,http://bad-ass.site/php/histar.php?id=109
+CCTV-14 少儿,http://bad-ass.site/php/histar.php?id=110
+CCTV-15 音乐,http://bad-ass.site/php/histar.php?id=111
+CCTV-16 奥林匹克,http://bad-ass.site/php/histar.php?id=112
+CCTV-17 农业农村,http://bad-ass.site/php/histar.php?id=113
+CCTV-5+ 体育赛事,http://bad-ass.site/php/histar.php?id=114
+北京卫视,http://bad-ass.site/php/histar.php?id=115
+湖南卫视,http://bad-ass.site/php/histar.php?id=116
+浙江卫视,http://bad-ass.site/php/histar.php?id=117
+东方卫视,http://bad-ass.site/php/histar.php?id=118
+江苏卫视,http://bad-ass.site/php/histar.php?id=119
+重庆卫视,http://bad-ass.site/php/histar.php?id=120
+东南卫视,http://bad-ass.site/php/histar.php?id=121
+福建海峡卫视,http://bad-ass.site/php/histar.php?id=122
+甘肃卫视,http://bad-ass.site/php/histar.php?id=123
+广西卫视,http://bad-ass.site/php/histar.php?id=125
+贵州卫视,http://bad-ass.site/php/histar.php?id=126
+海南卫视,http://bad-ass.site/php/histar.php?id=127
+河北卫视,http://bad-ass.site/php/histar.php?id=128
+黑龙江卫视,http://bad-ass.site/php/histar.php?id=129
+湖北卫视,http://bad-ass.site/php/histar.php?id=130
+江西卫视,http://bad-ass.site/php/histar.php?id=131
+吉林卫视,http://bad-ass.site/php/histar.php?id=132
+辽宁卫视,http://bad-ass.site/php/histar.php?id=133
+南方卫视,http://bad-ass.site/php/histar.php?id=134
+内蒙古卫视,http://bad-ass.site/php/histar.php?id=135
+宁夏卫视,http://bad-ass.site/php/histar.php?id=136
+陕西卫视,http://bad-ass.site/php/histar.php?id=137
+山东卫视,http://bad-ass.site/php/histar.php?id=138
+山西卫视,http://bad-ass.site/php/histar.php?id=139
+深圳卫视,http://bad-ass.site/php/histar.php?id=140
+四川卫视,http://bad-ass.site/php/histar.php?id=141
+天津卫视,http://bad-ass.site/php/histar.php?id=142
+厦门卫视,http://bad-ass.site/php/histar.php?id=143
+新疆卫视,http://bad-ass.site/php/histar.php?id=144
+西藏卫视,http://bad-ass.site/php/histar.php?id=145
+云南卫视,http://bad-ass.site/php/histar.php?id=146
+广东卫视,http://bad-ass.site/php/histar.php?id=248
+安徽卫视,http://bad-ass.site/php/histar.php?id=291
+河南卫视,http://bad-ass.site/php/histar.php?id=292
+青海卫视,http://bad-ass.site/php/histar.php?id=293
+凤凰卫视 中文台,http://bad-ass.site/php/histar.php?id=148
+凤凰卫视 资讯台,http://bad-ass.site/php/histar.php?id=149
+J2,http://bad-ass.site/php/histar.php?id=152
+TVB 明珠台,http://bad-ass.site/php/histar.php?id=153
+ViuTV,http://bad-ass.site/php/histar.php?id=154
+TVB 翡翠台,http://bad-ass.site/php/histar.php?id=155
+Now 财经台,http://bad-ass.site/php/histar.php?id=173
+凤凰卫视,http://bad-ass.site/php/histar.php?id=228
+澳门莲花卫视,http://bad-ass.site/php/histar.php?id=231
+TVB 无线新闻台,http://bad-ass.site/php/histar.php?id=278
+TVB 无线财经体育资讯台,http://bad-ass.site/php/histar.php?id=279
+ViuTV6,http://bad-ass.site/php/histar.php?id=280
+港台电视 31,http://bad-ass.site/php/histar.php?id=281
+港台电视 32,http://bad-ass.site/php/histar.php?id=282
+HOY TV,http://bad-ass.site/php/histar.php?id=283
+香港国际财经台,http://bad-ass.site/php/histar.php?id=284
+HOY 资讯台,http://bad-ass.site/php/histar.php?id=297
+澳门资讯,http://bad-ass.site/php/histar.php?id=319
+澳视澳门,http://bad-ass.site/php/histar.php?id=320
+Now 新闻台,http://bad-ass.site/php/histar.php?id=322
+TVB 经典台,http://bad-ass.site/php/histar.php?id=323
+凤凰卫视 香港台,http://bad-ass.site/php/histar.php?id=324
+天映经典,http://bad-ass.site/php/histar.php?id=376
+天映频道 HD,http://bad-ass.site/php/histar.php?id=389
+Now 华剧台,http://bad-ass.site/php/histar.php?id=425
+TVB 华语剧台,http://bad-ass.site/php/histar.php?id=428
+TVB 星河台,http://bad-ass.site/php/histar.php?id=548
+大爱二台,http://bad-ass.site/php/histar.php?id=245
+大爱一台,http://bad-ass.site/php/histar.php?id=295
+中视 HD,http://bad-ass.site/php/histar.php?id=299
+公视,http://bad-ass.site/php/histar.php?id=326
+公视3台,http://bad-ass.site/php/histar.php?id=327
+中天综合台,http://bad-ass.site/php/histar.php?id=330
+中天亚洲台,http://bad-ass.site/php/histar.php?id=331
+东森超视 HD,http://bad-ass.site/php/histar.php?id=339
+靖天国际台,http://bad-ass.site/php/histar.php?id=341
+TVBS Asia,http://bad-ass.site/php/histar.php?id=391
+东森综合台,http://bad-ass.site/php/histar.php?id=491
+中视,http://bad-ass.site/php/histar.php?id=516
+华视,http://bad-ass.site/php/histar.php?id=517
+台视,http://bad-ass.site/php/histar.php?id=518
+纬来日本,http://bad-ass.site/php/histar.php?id=549
+纬来综合台,http://bad-ass.site/php/histar.php?id=550
+八大第一台,http://bad-ass.site/php/histar.php?id=553
+ELTA 综合,http://bad-ass.site/php/histar.php?id=554
+TVBS 新闻台,http://bad-ass.site/php/histar.php?id=157
+寰宇新闻台,http://bad-ass.site/php/histar.php?id=166
+华视新闻,http://bad-ass.site/php/histar.php?id=237
+中天新闻,http://bad-ass.site/php/histar.php?id=242
+镜新闻,http://bad-ass.site/php/histar.php?id=312
+壹新闻 HD,http://bad-ass.site/php/histar.php?id=315
+靖天资讯台,http://bad-ass.site/php/histar.php?id=342
+中视新闻,http://bad-ass.site/php/histar.php?id=512
+台视新闻,http://bad-ass.site/php/histar.php?id=513
+TVBS HD,http://bad-ass.site/php/histar.php?id=514
+东森财经新闻,http://bad-ass.site/php/histar.php?id=515
+年代新闻,http://bad-ass.site/php/histar.php?id=519
+非凡新闻,http://bad-ass.site/php/histar.php?id=520
+东森新闻,http://bad-ass.site/php/histar.php?id=521
+TVBS 欢乐台,http://bad-ass.site/php/histar.php?id=328
+中天娱乐台,http://bad-ass.site/php/histar.php?id=329
+八大娱乐台,http://bad-ass.site/php/histar.php?id=335
+东森电影,http://bad-ass.site/php/histar.php?id=492
+东森戏剧,http://bad-ass.site/php/histar.php?id=493
+东森洋片,http://bad-ass.site/php/histar.php?id=494
+卫视中文台,http://bad-ass.site/php/histar.php?id=495
+卫视电影台,http://bad-ass.site/php/histar.php?id=496
+龙祥电影台,http://bad-ass.site/php/histar.php?id=497
+好莱坞电影台,http://bad-ass.site/php/histar.php?id=498
+八大戏剧台,http://bad-ass.site/php/histar.php?id=499
+纬来戏剧台,http://bad-ass.site/php/histar.php?id=500
+纬来电影台,http://bad-ass.site/php/histar.php?id=501
+龙华电影台,http://bad-ass.site/php/histar.php?id=502
+龙华洋片台,http://bad-ass.site/php/histar.php?id=503
+靖天电影台,http://bad-ass.site/php/histar.php?id=504
+美亚电影台,http://bad-ass.site/php/histar.php?id=505
+ELTA 影剧,http://bad-ass.site/php/histar.php?id=506
+EYE 戏剧台,http://bad-ass.site/php/histar.php?id=507
+星卫HD电影台,http://bad-ass.site/php/histar.php?id=508
+星卫娱乐台,http://bad-ass.site/php/histar.php?id=509
+MTV Live HD 频道,http://bad-ass.site/php/histar.php?id=510
+国兴卫视,http://bad-ass.site/php/histar.php?id=511
+Astro Awani,http://bad-ass.site/php/histar.php?id=246
+Astro Ceria,http://bad-ass.site/php/histar.php?id=298
+Astro ONE,http://bad-ass.site/php/histar.php?id=377
+Astro Prima,http://bad-ass.site/php/histar.php?id=378
+Astro Oasis,http://bad-ass.site/php/histar.php?id=379
+Astro Warna,http://bad-ass.site/php/histar.php?id=380
+Astro Rania,http://bad-ass.site/php/histar.php?id=381
+Astro Aura,http://bad-ass.site/php/histar.php?id=382
+8TV,http://bad-ass.site/php/histar.php?id=383
+TV9,http://bad-ass.site/php/histar.php?id=384
+Astro Citra,http://bad-ass.site/php/histar.php?id=385
+Astro AEC,http://bad-ass.site/php/histar.php?id=386
+Astro 双星台,http://bad-ass.site/php/histar.php?id=387
+Astro AOD HD,http://bad-ass.site/php/histar.php?id=390
+Astro 欢喜台,http://bad-ass.site/php/histar.php?id=392
+Astro AOD,http://bad-ass.site/php/histar.php?id=393
+Astro Arena HD,http://bad-ass.site/php/histar.php?id=394
+Astro Arena 2,http://bad-ass.site/php/histar.php?id=395
+Astro 爱奇艺,http://bad-ass.site/php/histar.php?id=403
+Channel 5,http://bad-ass.site/php/histar.php?id=426
+Channel U,http://bad-ass.site/php/histar.php?id=427
+OKEY,http://bad-ass.site/php/histar.php?id=429
+Astro 华丽台,http://bad-ass.site/php/histar.php?id=430
+Channel 8,http://bad-ass.site/php/histar.php?id=561
+第一财经,http://bad-ass.site/php/histar.php?id=216
+北京财经,http://bad-ass.site/php/histar.php?id=217
+上海都市,http://bad-ass.site/php/histar.php?id=218
+上海新闻,http://bad-ass.site/php/histar.php?id=219
+广东珠江,http://bad-ass.site/php/histar.php?id=220
+湖南经视,http://bad-ass.site/php/histar.php?id=221
+北京体育休闲,http://bad-ass.site/php/histar.php?id=222
+五星体育,http://bad-ass.site/php/histar.php?id=223
+天津体育,http://bad-ass.site/php/histar.php?id=224
+辽宁体育,http://bad-ass.site/php/histar.php?id=225
+广东体育,http://bad-ass.site/php/histar.php?id=226
+河南梨园,http://bad-ass.site/php/histar.php?id=227
+纬来体育,http://bad-ass.site/php/histar.php?id=356
+ELEVEN体育-1,http://bad-ass.site/php/histar.php?id=357
+ELEVEN体育-2,http://bad-ass.site/php/histar.php?id=358
+博斯运动-1,http://bad-ass.site/php/histar.php?id=359
+博斯运动-2,http://bad-ass.site/php/histar.php?id=360
+博斯高球-1,http://bad-ass.site/php/histar.php?id=361
+博斯高球-2,http://bad-ass.site/php/histar.php?id=362
+博斯网球,http://bad-ass.site/php/histar.php?id=363
+Sony Sports 1 HD,http://bad-ass.site/php/histar.php?id=364
+Sony Sports 2 HD,http://bad-ass.site/php/histar.php?id=365
+Sony Sports 3 HD,http://bad-ass.site/php/histar.php?id=366
+Sony Sports 4 HD,http://bad-ass.site/php/histar.php?id=367
+Eurosports-2,http://bad-ass.site/php/histar.php?id=368
+beIN Sports MAX,http://bad-ass.site/php/histar.php?id=369
+SPOTV-2,http://bad-ass.site/php/histar.php?id=396
+SPOTV,http://bad-ass.site/php/histar.php?id=397
+beIN Sports 2,http://bad-ass.site/php/histar.php?id=398
+beIN Sports 1,http://bad-ass.site/php/histar.php?id=399
+beIN Sports 3,http://bad-ass.site/php/histar.php?id=400
+Eurosport HD,http://bad-ass.site/php/histar.php?id=401
+Eurosports-1,http://bad-ass.site/php/histar.php?id=476
+博斯无限,http://bad-ass.site/php/histar.php?id=477
+ELTA体育-1,http://bad-ass.site/php/histar.php?id=551
+ELTA体育-2,http://bad-ass.site/php/histar.php?id=552
+ELTA体育-3,http://bad-ass.site/php/histar.php?id=563
+靖天卡通台,http://bad-ass.site/php/histar.php?id=343
+Astro 小太阳,http://bad-ass.site/php/histar.php?id=402
+MOMOTV,http://bad-ass.site/php/histar.php?id=431
+小尼克频道,http://bad-ass.site/php/histar.php?id=523
+MOMO亲子台,http://bad-ass.site/php/histar.php?id=524
+CN卡通,http://bad-ass.site/php/histar.php?id=525
+Boomerang HD,http://bad-ass.site/php/histar.php?id=526
+Animax卡通,http://bad-ass.site/php/histar.php?id=527
+尼克儿童频道,http://bad-ass.site/php/histar.php?id=528
+国家地理,http://bad-ass.site/php/histar.php?id=345
+国家地理 野生频道,http://bad-ass.site/php/histar.php?id=346
+动物星球频道,http://bad-ass.site/php/histar.php?id=347
+探索频道,http://bad-ass.site/php/histar.php?id=348
+DMAX,http://bad-ass.site/php/histar.php?id=349
+探索科学频道,http://bad-ass.site/php/histar.php?id=350
+探索亚洲频道,http://bad-ass.site/php/histar.php?id=351
+History 频道,http://bad-ass.site/php/histar.php?id=529
+History-2 频道,http://bad-ass.site/php/histar.php?id=530
+TLC 旅游生活頻道,http://bad-ass.site/php/histar.php?id=531
+CI 罪案侦查频道,http://bad-ass.site/php/histar.php?id=532
+亚洲旅游台,http://bad-ass.site/php/histar.php?id=533
+美食星球频道,http://bad-ass.site/php/histar.php?id=534
+EYE 旅游台,http://bad-ass.site/php/histar.php?id=535
+ABC News,http://bad-ass.site/php/histar.php?id=294
+Bloomberg,http://bad-ass.site/php/histar.php?id=296
+Fox News,http://bad-ass.site/php/histar.php?id=300
+BBC World News,http://bad-ass.site/php/histar.php?id=301
+CNN,http://bad-ass.site/php/histar.php?id=303
+CBS News,http://bad-ass.site/php/histar.php?id=307
+CNBC,http://bad-ass.site/php/histar.php?id=536
+
+🌈|电影,#genre#
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
+CHC家庭影院,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
+溧水影视,https://live.lsrmw.cn/ysyl/sd/live.m3u8
+柳林影视,http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+
+虎牙影视,#genre#
+林正英[4],https://epg.112114.xyz/huya/11342421
+港台电影[5],https://epg.112114.xyz/huya/880261
+铁齿铜牙纪晓岚[8],https://epg.112114.xyz/huya/11342396
+科幻五分钟[10],https://epg.112114.xyz/huya/15152155
+新三国[11],https://epg.112114.xyz/huya/11352944
+极限挑战[14],https://epg.112114.xyz/huya/11352914
+陈翔六点半[16],https://epg.112114.xyz/huya/11274154
+欧美电影5分钟[18],https://epg.112114.xyz/huya/16028551
+爱情公寓[23],https://epg.112114.xyz/huya/11336726
+电影[24],https://epg.112114.xyz/huya/618917
+让子弹飞[28],https://epg.112114.xyz/huya/11259843
+路飞[34],https://epg.112114.xyz/huya/16913382
+恐怖电影找力哥[41],https://epg.112114.xyz/huya/23419131
+刘德华[49],https://epg.112114.xyz/huya/11342424
+网球王子[55],https://epg.112114.xyz/huya/11352882
+极品新娘[60],https://epg.112114.xyz/huya/11342426
+三国演义[63],https://epg.112114.xyz/huya/11602081
+止戈电影[64],https://epg.112114.xyz/huya/19863777
+李连杰[65],https://epg.112114.xyz/huya/11342390
+杰森·斯坦森[69],https://epg.112114.xyz/huya/21059588
+五福星[77],https://epg.112114.xyz/huya/11282233
+麻雀[79],https://epg.112114.xyz/huya/11352881
+周润发[83],https://epg.112114.xyz/huya/11342387
+经典高智商犯罪片[86],https://epg.112114.xyz/huya/11352962
+Yes小哥的美食[88],https://epg.112114.xyz/huya/14363949
+朱雀青龙[89],https://epg.112114.xyz/huya/11352905
+神貂侠侣[92],https://epg.112114.xyz/huya/11352964
+林正英[93],https://epg.112114.xyz/huya/18441722
+港产搞笑[94],https://epg.112114.xyz/huya/11601960
+7分钟看完科幻[99],https://epg.112114.xyz/huya/17105786
+警匪[100],https://epg.112114.xyz/huya/11352886
+海贼王15[111],https://epg.112114.xyz/huya/17941367
+笑傲帮[120],https://epg.112114.xyz/huya/11352908
+火影忍者[121],https://epg.112114.xyz/huya/20236200
+军事武器分析[123],https://epg.112114.xyz/huya/15824466
+经典好片[132],https://epg.112114.xyz/huya/11342427
+史诗级战zheng电影[133],https://epg.112114.xyz/huya/21059556
+Han国高分动作片[137],https://epg.112114.xyz/huya/11352884
+勇敢的心[138],https://epg.112114.xyz/huya/11602037
+精彩不断[140],https://epg.112114.xyz/huya/24396428
+隋唐英雄[144],https://epg.112114.xyz/huya/11352899
+大片[156],https://epg.112114.xyz/huya/21059585
+神hua[169],https://epg.112114.xyz/huya/11352913
+海贼王[173],https://epg.112114.xyz/huya/16739452
+速看[174],https://epg.112114.xyz/huya/16868935
+速看美剧[177],https://epg.112114.xyz/huya/17204307
+笑傲江湖 喜剧脱口秀[179],https://epg.112114.xyz/huya/11352937
+沫漾电影[182],https://epg.112114.xyz/huya/15556391
+科幻动作电影[193],https://epg.112114.xyz/huya/16914870
+电ju惊魂系列[196],https://epg.112114.xyz/huya/11352903
+娘子陪你看[206],https://epg.112114.xyz/huya/18964209
+捉妖记[207],https://epg.112114.xyz/huya/11342414
+硬汉的直播间[212],https://epg.112114.xyz/huya/24614407
+喜剧专场[217],https://epg.112114.xyz/huya/11602044
+情深深雨濛濛[221],https://epg.112114.xyz/huya/11352885
+搞笑僵尸片[238],https://epg.112114.xyz/huya/11352963
+国产青春爱情[239],https://epg.112114.xyz/huya/11602075
+da宋提刑官[243],https://epg.112114.xyz/huya/11279251
+冯小刚合集[247],https://epg.112114.xyz/huya/11352906
+命案十三宗[248],https://epg.112114.xyz/huya/11601981
+黄渤[256],https://epg.112114.xyz/huya/11352876
+虎妈猫爸[257],https://epg.112114.xyz/huya/11601964
+悬疑片[266],https://epg.112114.xyz/huya/11602088
+大宅men[270],https://epg.112114.xyz/huya/11352936
+看救援电影[272],https://epg.112114.xyz/huya/21059586
+贺岁合家欢剧场[273],https://epg.112114.xyz/huya/11602067
+篮qiu火[274],https://epg.112114.xyz/huya/21059558
+
+斗鱼影视,#genre#
+华语经典,http://epg.112114.xyz/douyu/434971
+吃米滴虫,http://epg.112114.xyz/douyu/315457
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+霍格影片,http://epg.112114.xyz/douyu/8814650
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
+避风港影院,http://epg.112114.xyz/douyu/9826611
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+连续剧2,http://epg.112114.xyz/douyu/7623292
+斗鱼动画,http://epg.112114.xyz/douyu/7528160
+斗鱼电影1,http://epg.112114.xyz/douyu/2935323
+斗鱼电影4,http://epg.112114.xyz/douyu/4246519
+斗鱼电影8,http://epg.112114.xyz/douyu/4290711
+斗鱼电影12,http://epg.112114.xyz/douyu/2793084
+斗鱼电影13,http://epg.112114.xyz/douyu/5067952
+斗鱼电影14,http://epg.112114.xyz/douyu/413573
+斗鱼电影15,http://epg.112114.xyz/douyu/5033502
+斗鱼电影16,http://epg.112114.xyz/douyu/426517
+斗鱼电影17,http://epg.112114.xyz/douyu/1274132
+斗鱼电影19,http://epg.112114.xyz/douyu/6582435
+斗鱼电影20,http://epg.112114.xyz/douyu/323876
+斗鱼电影HD6,http://epg.112114.xyz/douyu/747764
+斗鱼电影HD12,http://epg.112114.xyz/douyu/2436390
+斗鱼电影HD18,http://epg.112114.xyz/douyu/9292492
+斗鱼电影HD25,http://epg.112114.xyz/douyu/8945323
+斗鱼电影HD29,http://epg.112114.xyz/douyu/9651304
+斗鱼电影HD36,http://epg.112114.xyz/douyu/1735337
+斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
+
+华语经典,http://maomao.kandiantv.cn/douyu1.php?id=434971#http://epg.112114.xyz/douyu/434971
+吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=315457
+特辑影院,http://maomao.kandiantv.cn/douyu1.php?id=3637778
+刘德华电影1,http://maomao.kandiantv.cn/douyu1.php?id=2516864#http://epg.112114.xyz/douyu/2516864
+豆瓣高分,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+贝爷影厅2,http://maomao.kandiantv.cn/douyu1.php?id=36337
+霍格影片,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+冰冰经典电影,http://maomao.kandiantv.cn/douyu1.php?id=74374#http://epg.112114.xyz/douyu/74374
+连续剧2,http://maomao.kandiantv.cn/douyu1.php?id=7623292
+连续剧4,http://maomao.kandiantv.cn/douyu1.php?id=7476264
+斗鱼探险,http://maomao.kandiantv.cn/douyu1.php?id=3485629#http://epg.112114.xyz/douyu/3485629
+斗鱼动画,http://maomao.kandiantv.cn/douyu1.php?id=7528160
+斗鱼电影2,http://maomao.kandiantv.cn/douyu1.php?id=7459925
+斗鱼电影3,http://maomao.kandiantv.cn/douyu1.php?id=431460
+斗鱼电影12,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+斗鱼电影14,http://maomao.kandiantv.cn/douyu1.php?id=413573
+斗鱼电影15,http://maomao.kandiantv.cn/douyu1.php?id=5033502
+斗鱼电影16,http://maomao.kandiantv.cn/douyu1.php?id=426517
+斗鱼电影19,http://maomao.kandiantv.cn/douyu1.php?id=6582435
+
+
+🐆🐅虎牙,#genre#
+周星驰,https://live.goodiptv.club/api/huya.php?id=11342412
+微竞-琴琴nice,https://live.goodiptv.club/api/huya.php?id=913155
+阿斗归来了,https://live.goodiptv.club/api/huya.php?id=13303478
+SMG最强大脑,https://live.goodiptv.club/api/huya.php?id=11352914
+武林萌主唐小姐,https://live.goodiptv.club/api/huya.php?id=11336726
+yd丶小九,https://live.goodiptv.club/api/huya.php?id=27858229
+陈翔六点半,https://live.goodiptv.club/api/huya.php?id=11274154
+DD-娜娜,https://live.goodiptv.club/api/huya.php?id=26590882
+鯎爺,https://live.goodiptv.club/api/huya.php?id=11352944
+小木子先生丶,https://live.goodiptv.club/api/huya.php?id=11342396
+SJ-流氓兔兔、,https://live.goodiptv.club/api/huya.php?id=28441217
+SJ-饭宝,https://live.goodiptv.club/api/huya.php?id=28359460
+7喜先生,https://live.goodiptv.club/api/huya.php?id=11342421
+DD-小熊,https://live.goodiptv.club/api/huya.php?id=27125437
+赢城-江爽,https://live.goodiptv.club/api/huya.php?id=23796393
+香港喜剧大全,https://live.goodiptv.club/api/huya.php?id=23865080
+我是詹密,https://live.goodiptv.club/api/huya.php?id=11342439
+虎牙【蛋蛋侠】,https://live.goodiptv.club/api/huya.php?id=396734
+心动--铁柱妹妹,https://live.goodiptv.club/api/huya.php?id=28426547
+DD-香菜,https://live.goodiptv.club/api/huya.php?id=631395
+瞬间爆炸,https://live.goodiptv.club/api/huya.php?id=11352960
+胜维装机,https://live.goodiptv.club/api/huya.php?id=19726586
+SJ-泡泡,https://live.goodiptv.club/api/huya.php?id=27419404
+yd丶七七,https://live.goodiptv.club/api/huya.php?id=27927451
+领带哥,https://live.goodiptv.club/api/huya.php?id=11342430
+扁豆看电影,https://live.goodiptv.club/api/huya.php?id=16028551
+郭德纲说单口相声,https://live.goodiptv.club/api/huya.php?id=25639846
+DD-小秋,https://live.goodiptv.club/api/huya.php?id=17440076
+音炊渺渺儿Zzz,https://live.goodiptv.club/api/huya.php?id=265714
+米粒电脑装机,https://live.goodiptv.club/api/huya.php?id=16929106
+经典剧,https://live.goodiptv.club/api/huya.php?id=19060765
+乔晚晚【蓝光】,https://live.goodiptv.club/api/huya.php?id=25258907
+柯冉冉,https://live.goodiptv.club/api/huya.php?id=11352874
+余小二【退】,https://live.goodiptv.club/api/huya.php?id=10279885
+虎牙八点档,https://live.goodiptv.club/api/huya.php?id=880261
+DD-一丽,https://live.goodiptv.club/api/huya.php?id=28755743
+Cc【小魔女】,https://live.goodiptv.club/api/huya.php?id=23281158
+BTM-牙牙乐,https://live.goodiptv.club/api/huya.php?id=20080293
+Mai大叔,https://live.goodiptv.club/api/huya.php?id=12359302
+心疼得抱住胖胖的自己,https://live.goodiptv.club/api/huya.php?id=11342425
+【林正英】电影系列,https://live.goodiptv.club/api/huya.php?id=28274529
+DD-七七宝,https://live.goodiptv.club/api/huya.php?id=25375199
+卿暮KIM,https://live.goodiptv.club/api/huya.php?id=22809600
+痞子帅叔叔,https://live.goodiptv.club/api/huya.php?id=11342433
+裸奔的蜗牛╮,https://live.goodiptv.club/api/huya.php?id=11342418
+SJya月,https://live.goodiptv.club/api/huya.php?id=27839243
+种瓜得弟弟,https://live.goodiptv.club/api/huya.php?id=11352872
+包子【大爷的小棉袄】,https://live.goodiptv.club/api/huya.php?id=11090743
+鱼塘塘主张年年,https://live.goodiptv.club/api/huya.php?id=11342384
+不发威当我Kitty,https://live.goodiptv.club/api/huya.php?id=11342403
+虎牙影院,https://live.goodiptv.club/api/huya.php?id=11601968
+四次元先生,https://live.goodiptv.club/api/huya.php?id=11602071
+偷心大盗ヽ龍宝,https://live.goodiptv.club/api/huya.php?id=11342386
+sj-末末,https://live.goodiptv.club/api/huya.php?id=28494878
+SF-小小鱼,https://live.goodiptv.club/api/huya.php?id=27526753
+德云社相声,https://live.goodiptv.club/api/huya.php?id=10712908
+SJ-灰灰,https://live.goodiptv.club/api/huya.php?id=27773247
+會唱歌的小野貓,https://live.goodiptv.club/api/huya.php?id=11352871
+傻妞,https://live.goodiptv.club/api/huya.php?id=11342426
+婧丶,https://live.goodiptv.club/api/huya.php?id=26298751
+科幻梦工场,https://live.goodiptv.club/api/huya.php?id=15152155
+全优少年,https://live.goodiptv.club/api/huya.php?id=11602081
+大侠,https://live.goodiptv.club/api/huya.php?id=11602085
+No1常在心,https://live.goodiptv.club/api/huya.php?id=11342402
+我们都爱笑,https://live.goodiptv.club/api/huya.php?id=11352882
+狗哥吃火锅,https://live.goodiptv.club/api/huya.php?id=17269326
+木l诗诗,https://live.goodiptv.club/api/huya.php?id=24874164
+萌新司机,https://live.goodiptv.club/api/huya.php?id=11352881
+悸动,https://live.goodiptv.club/api/huya.php?id=28272846
+德云郭德纲相声,https://live.goodiptv.club/api/huya.php?id=25343324
+止戈电影,https://live.goodiptv.club/api/huya.php?id=19863777
+亮哥讲电影,https://live.goodiptv.club/api/huya.php?id=16144175
+我是周粤驰,https://live.goodiptv.club/api/huya.php?id=23864973
+南西视频,https://live.goodiptv.club/api/huya.php?id=16913382
+千里,https://live.goodiptv.club/api/huya.php?id=20985776
+天意苦相思,https://live.goodiptv.club/api/huya.php?id=28749557
+mai240598269,https://live.goodiptv.club/api/huya.php?id=16339146
+茱麗葉,https://live.goodiptv.club/api/huya.php?id=11602072
+凌莲,https://live.goodiptv.club/api/huya.php?id=11602086
+图图爱吃米,https://live.goodiptv.club/api/huya.php?id=28786450
+Ml先生,https://live.goodiptv.club/api/huya.php?id=16857690
+昵称违规-QQFbPxwM1A,https://live.goodiptv.club/api/huya.php?id=11352958
+电影最TOP,https://live.goodiptv.club/api/huya.php?id=11774959
+普通司机小马,https://live.goodiptv.club/api/huya.php?id=23749096
+东辰-乔,https://live.goodiptv.club/api/huya.php?id=19747102
+Mai大叔,https://live.goodiptv.club/api/huya.php?id=15866869
+麥l晴雪,https://live.goodiptv.club/api/huya.php?id=25749082
+老雷,https://live.goodiptv.club/api/huya.php?id=11602034
+TVB官方,https://live.goodiptv.club/api/huya.php?id=23735126
+Wang-我的女人,https://live.goodiptv.club/api/huya.php?id=11352940
+粉娘,https://live.goodiptv.club/api/huya.php?id=11601978
+四大裁子之首,https://live.goodiptv.club/api/huya.php?id=11602058
+pop-溺溺,https://live.goodiptv.club/api/huya.php?id=13299281
+大鱼爱路飞,https://live.goodiptv.club/api/huya.php?id=25818873
+斌哥漫说,https://live.goodiptv.club/api/huya.php?id=18632116
+呆萌小岳岳,https://live.goodiptv.club/api/huya.php?id=11342398
+rozlyn,https://live.goodiptv.club/api/huya.php?id=27882535
+荒野达人,https://live.goodiptv.club/api/huya.php?id=11352975
+我要在你头上暴扣,https://live.goodiptv.club/api/huya.php?id=19524135
+loVe、飘零,https://live.goodiptv.club/api/huya.php?id=11602074
+科技这样玩,https://live.goodiptv.club/api/huya.php?id=11602033
+冷门港片大全,https://live.goodiptv.club/api/huya.php?id=23903196
+新奇好玩喵,https://live.goodiptv.club/api/huya.php?id=21059610
+D3ath-亡魂,https://live.goodiptv.club/api/huya.php?id=11342437
+和我说话请投币一熊猫,https://live.goodiptv.club/api/huya.php?id=28461406
+求战砂輪虫江米釀鴨子,https://live.goodiptv.club/api/huya.php?id=26355859
+博士说,https://live.goodiptv.club/api/huya.php?id=20985819
+大象放映室,https://live.goodiptv.club/api/huya.php?id=21277391
+小武有好剧,https://live.goodiptv.club/api/huya.php?id=27742250
+苏仨,https://live.goodiptv.club/api/huya.php?id=11601972
+梁非凡吃点啥,https://live.goodiptv.club/api/huya.php?id=21059577
+兔八哥说电影,https://live.goodiptv.club/api/huya.php?id=25869759
+简小熙,https://live.goodiptv.club/api/huya.php?id=11342399
+港剧伴你行,https://live.goodiptv.club/api/huya.php?id=23903183
+青年电影馆,https://live.goodiptv.club/api/huya.php?id=21388479
+枫哥影视,https://live.goodiptv.club/api/huya.php?id=25007621
+熊妹撩电影,https://live.goodiptv.club/api/huya.php?id=15966357
+长岛冰茶-,https://live.goodiptv.club/api/huya.php?id=11352884
+硬汉影探,https://live.goodiptv.club/api/huya.php?id=24614407
+状元及第粥,https://live.goodiptv.club/api/huya.php?id=21059581
+老王夸我帅,https://live.goodiptv.club/api/huya.php?id=11352964
+小爱酱,https://live.goodiptv.club/api/huya.php?id=11352922
+小丑讲电影,https://live.goodiptv.club/api/huya.php?id=16857432
+宋少宝,https://live.goodiptv.club/api/huya.php?id=16923449
+揽星-曼曼,https://live.goodiptv.club/api/huya.php?id=19491676
+HelloKitty,https://live.goodiptv.club/api/huya.php?id=11352879
+看似斐濟,https://live.goodiptv.club/api/huya.php?id=26355780
+港剧慢品汇,https://live.goodiptv.club/api/huya.php?id=23865142
+兜兜з,https://live.goodiptv.club/api/huya.php?id=11352910
+我才是打工人,https://live.goodiptv.club/api/huya.php?id=23860039
+S哥影视,https://live.goodiptv.club/api/huya.php?id=24720260
+我是郭杰瑞,https://live.goodiptv.club/api/huya.php?id=21478190
+小猪猪,https://live.goodiptv.club/api/huya.php?id=11342416
+老实的小虎牙,https://live.goodiptv.club/api/huya.php?id=21059609
+济川源,https://live.goodiptv.club/api/huya.php?id=24960298
+老司机,https://live.goodiptv.club/api/huya.php?id=11352946
+悟空电脑装机,https://live.goodiptv.club/api/huya.php?id=24324961
+战斗联盟,https://live.goodiptv.club/api/huya.php?id=11342413
+ByDiy,https://live.goodiptv.club/api/huya.php?id=20985807
+埋堆搞搞震,https://live.goodiptv.club/api/huya.php?id=23734169
+音乐小石榴,https://live.goodiptv.club/api/huya.php?id=17091681
+阿良说美剧,https://live.goodiptv.club/api/huya.php?id=20488841
+艺术旅者,https://live.goodiptv.club/api/huya.php?id=20985798
+安逗和黑仔,https://live.goodiptv.club/api/huya.php?id=11342424
+宇宙摸魚人,https://live.goodiptv.club/api/huya.php?id=26355763
+杰克动漫,https://live.goodiptv.club/api/huya.php?id=19757963
+核桃姐姐,https://live.goodiptv.club/api/huya.php?id=11342390
+君子杉,https://live.goodiptv.club/api/huya.php?id=15321830
+薔薇六,https://live.goodiptv.club/api/huya.php?id=26355799
+越哥说电影,https://live.goodiptv.club/api/huya.php?id=15894162
+楚门聊电影,https://live.goodiptv.club/api/huya.php?id=16507906
+热心市民高先生,https://live.goodiptv.club/api/huya.php?id=11602037
+小妖孽,https://live.goodiptv.club/api/huya.php?id=11602088
+YeShi小哥,https://live.goodiptv.club/api/huya.php?id=14363949
+十八里铺大当家,https://live.goodiptv.club/api/huya.php?id=21059562
+加班狗,https://live.goodiptv.club/api/huya.php?id=11352891
+缔爵丶小阿杜,https://live.goodiptv.club/api/huya.php?id=16755322
+娜娜Q,https://live.goodiptv.club/api/huya.php?id=20969125
+鄉8佬,https://live.goodiptv.club/api/huya.php?id=11352920
+Mr-傀儡,https://live.goodiptv.club/api/huya.php?id=11352936
+辟哥影视,https://live.goodiptv.club/api/huya.php?id=27653235
+小川侃电影,https://live.goodiptv.club/api/huya.php?id=15870999
+麋鹿,https://live.goodiptv.club/api/huya.php?id=11342419
+冰火岛一霸,https://live.goodiptv.club/api/huya.php?id=21059563
+一只大懒虫,https://live.goodiptv.club/api/huya.php?id=11279251
+学妹爱学长,https://live.goodiptv.club/api/huya.php?id=11352886
+老P仔动漫,https://live.goodiptv.club/api/huya.php?id=26510802
+鬼叔奇谈,https://live.goodiptv.club/api/huya.php?id=20985821
+Yummy,https://live.goodiptv.club/api/huya.php?id=11336587
+十四就是十四啊,https://live.goodiptv.club/api/huya.php?id=21384538
+超人的归来,https://live.goodiptv.club/api/huya.php?id=21059588
+逗比宝宝,https://live.goodiptv.club/api/huya.php?id=11342427
+吾聊电影,https://live.goodiptv.club/api/huya.php?id=16424416
+重口味爱好者,https://live.goodiptv.club/api/huya.php?id=11352889
+幻海航行,https://live.goodiptv.club/api/huya.php?id=17105786
+漓江塔景区售票阿姨,https://live.goodiptv.club/api/huya.php?id=11602082
+如意菜头,https://live.goodiptv.club/api/huya.php?id=11352966
+荒野求生影视,https://live.goodiptv.club/api/huya.php?id=24766781
+小怪兽、,https://live.goodiptv.club/api/huya.php?id=11602044
+乔我说动漫频道,https://live.goodiptv.club/api/huya.php?id=17941367
+--娇妹,https://live.goodiptv.club/api/huya.php?id=11342404
+缠,https://live.goodiptv.club/api/huya.php?id=20969140
+揽星-小幸运,https://live.goodiptv.club/api/huya.php?id=24584117
+一只梦幻小萌虎,https://live.goodiptv.club/api/huya.php?id=21059556
+调查团,https://live.goodiptv.club/api/huya.php?id=20969117
+我是靓宝,https://live.goodiptv.club/api/huya.php?id=23728660
+我是一颗小虎牙,https://live.goodiptv.club/api/huya.php?id=20985853
+DYS石家庄办事处,https://live.goodiptv.club/api/huya.php?id=28795221
+初心,https://live.goodiptv.club/api/huya.php?id=11352941
+我是一颗小虎牙,https://live.goodiptv.club/api/huya.php?id=21059596
+喜仔的世界,https://live.goodiptv.club/api/huya.php?id=17098448
+Big笑工坊,https://live.goodiptv.club/api/huya.php?id=14776702
+恐怖地带,https://live.goodiptv.club/api/huya.php?id=16741179
+阿夹,https://live.goodiptv.club/api/huya.php?id=20985783
+二次元控,https://live.goodiptv.club/api/huya.php?id=11352912
+包蛋超人,https://live.goodiptv.club/api/huya.php?id=11342400
+盛世-阿蒲【一起看】,https://live.goodiptv.club/api/huya.php?id=28595133
+皮皮皮卡卡皮卡丘,https://live.goodiptv.club/api/huya.php?id=21059595
+2324963683yy,https://live.goodiptv.club/api/huya.php?id=16524148
+重庆表面工程协会,https://live.goodiptv.club/api/huya.php?id=28804808
+Adam短发,https://live.goodiptv.club/api/huya.php?id=21339980
+小阿掌,https://live.goodiptv.club/api/huya.php?id=28182904
+浮生没有若梦,https://live.goodiptv.club/api/huya.php?id=11601986
+-若凌Provence-,https://live.goodiptv.club/api/huya.php?id=11352955
+音粤无国界,https://live.goodiptv.club/api/huya.php?id=23734256
+持枪者-土豆哥,https://live.goodiptv.club/api/huya.php?id=11336578
+SMG爆笑舞台,https://live.goodiptv.club/api/huya.php?id=11352937
+大聪明和魏乐乐影院,https://live.goodiptv.club/api/huya.php?id=23304691
+SMG开怀时刻,https://live.goodiptv.club/api/huya.php?id=11352908
+槽老师,https://live.goodiptv.club/api/huya.php?id=11336571
+迢递羹瓜祭,https://live.goodiptv.club/api/huya.php?id=26355787
+小田儿解说,https://live.goodiptv.club/api/huya.php?id=27833739
+有点意思,https://live.goodiptv.club/api/huya.php?id=20985824
+胖虎噜噜噜,https://live.goodiptv.club/api/huya.php?id=25286082
+猫眼下的鱼,https://live.goodiptv.club/api/huya.php?id=20236200
+人间眩法师,https://live.goodiptv.club/api/huya.php?id=20985855
+盡堊而美洲,https://live.goodiptv.club/api/huya.php?id=26355830
+TVB动作大片,https://live.goodiptv.club/api/huya.php?id=23865036
+埋堆堆官方,https://live.goodiptv.club/api/huya.php?id=23740156
+一起来埋堆,https://live.goodiptv.club/api/huya.php?id=23734183
+合班阿離,https://live.goodiptv.club/api/huya.php?id=26355792
+电影笔记,https://live.goodiptv.club/api/huya.php?id=16920222
+君家獵天驕,https://live.goodiptv.club/api/huya.php?id=26355826
+老来事業斷橋邊,https://live.goodiptv.club/api/huya.php?id=26355853
+寞尛北,https://live.goodiptv.club/api/huya.php?id=11602076
+牙缝多了根青菜,https://live.goodiptv.club/api/huya.php?id=11352877
+了不起的乌贼君,https://live.goodiptv.club/api/huya.php?id=16604522
+低调新说,https://live.goodiptv.club/api/huya.php?id=20578977
+周队长captain,https://live.goodiptv.club/api/huya.php?id=22903695
+努比亚世界,https://live.goodiptv.club/api/huya.php?id=26355808
+李大湿,https://live.goodiptv.club/api/huya.php?id=11342417
+白泽字幕组,https://live.goodiptv.club/api/huya.php?id=23652317
+小麥,https://live.goodiptv.club/api/huya.php?id=10980725
+扁豆看电影2,https://live.goodiptv.club/api/huya.php?id=21059623
+狗哥吃火锅2,https://live.goodiptv.club/api/huya.php?id=21059624
+春江花朝吹香夢,https://live.goodiptv.club/api/huya.php?id=26355791
+周星星梦里的朱茵,https://live.goodiptv.club/api/huya.php?id=21059587
+KotohaModeling,https://live.goodiptv.club/api/huya.php?id=20985794
+马春夏秋冬梅,https://live.goodiptv.club/api/huya.php?id=21059564
+山东北路大喬,https://live.goodiptv.club/api/huya.php?id=26355860
+唐唐科普,https://live.goodiptv.club/api/huya.php?id=20985846
+葱爆牛柳鱂魚,https://live.goodiptv.club/api/huya.php?id=26355778
+憨憨哥说电影,https://live.goodiptv.club/api/huya.php?id=24917827
+乔我说游戏频道,https://live.goodiptv.club/api/huya.php?id=17943364
+元芳看不到,https://live.goodiptv.club/api/huya.php?id=11342414
+成长学院,https://live.goodiptv.club/api/huya.php?id=20985822
+芦苇微微的弟子,https://live.goodiptv.club/api/huya.php?id=21059558
+西九龙冠希哥,https://live.goodiptv.club/api/huya.php?id=21059579
+奥特博物馆V,https://live.goodiptv.club/api/huya.php?id=26509852
+梁非凡吔X啦,https://live.goodiptv.club/api/huya.php?id=23749083
+鱼丸说电影,https://live.goodiptv.club/api/huya.php?id=16615910
+昔日女神柳清茶-,https://live.goodiptv.club/api/huya.php?id=11279247
+-惟美,https://live.goodiptv.club/api/huya.php?id=11352885
+笙歌,https://live.goodiptv.club/api/huya.php?id=11352965
+世界格斗场,https://live.goodiptv.club/api/huya.php?id=11352969
+Eric次元宝贝,https://live.goodiptv.club/api/huya.php?id=21059552
+刘老师说电影,https://live.goodiptv.club/api/huya.php?id=20289754
+我只是个好人,https://live.goodiptv.club/api/huya.php?id=23728674
+暴走君丶阿罪,https://live.goodiptv.club/api/huya.php?id=11342423
+小军迷,https://live.goodiptv.club/api/huya.php?id=11352909
+噔噔悬疑社,https://live.goodiptv.club/api/huya.php?id=17445539
+良少聊漫威,https://live.goodiptv.club/api/huya.php?id=25523725
+山夫观影,https://live.goodiptv.club/api/huya.php?id=27321247
+爆裂电影,https://live.goodiptv.club/api/huya.php?id=25013725
+沐小错,https://live.goodiptv.club/api/huya.php?id=11352956
+苦瓜老姨,https://live.goodiptv.club/api/huya.php?id=11342429
+来瓶肥宅水,https://live.goodiptv.club/api/huya.php?id=21059555
+主播小贞,https://live.goodiptv.club/api/huya.php?id=11352935
+胖次过肩摔,https://live.goodiptv.club/api/huya.php?id=11352903
+嫣然,https://live.goodiptv.club/api/huya.php?id=11601977
+不二说剧,https://live.goodiptv.club/api/huya.php?id=24401498
+老文的快乐生活,https://live.goodiptv.club/api/huya.php?id=21267475
+福星电脑装机,https://live.goodiptv.club/api/huya.php?id=28630089
+尐饭团,https://live.goodiptv.club/api/huya.php?id=11352907
+小轩,https://live.goodiptv.club/api/huya.php?id=11352899
+是大宝贝呀,https://live.goodiptv.club/api/huya.php?id=23829543
+开船老湿基,https://live.goodiptv.club/api/huya.php?id=11342387
+TVBaby,https://live.goodiptv.club/api/huya.php?id=23865164
+肥猫观影,https://live.goodiptv.club/api/huya.php?id=24152470
+秋風裊裊更秉烛,https://live.goodiptv.club/api/huya.php?id=26355781
+可爱的小强,https://live.goodiptv.club/api/huya.php?id=11342435
+狂鸟丶铭锐电脑装机,https://live.goodiptv.club/api/huya.php?id=18333059
+大浪直播,https://live.goodiptv.club/api/huya.php?id=28805607
+虎扯新车,https://live.goodiptv.club/api/huya.php?id=26355820
+TVB爱情故事,https://live.goodiptv.club/api/huya.php?id=23863818
+电影狂人A,https://live.goodiptv.club/api/huya.php?id=18715610
+龙虾电影,https://live.goodiptv.club/api/huya.php?id=27742234
+-小癲,https://live.goodiptv.club/api/huya.php?id=11602065
+勞資ヽ尐爺,https://live.goodiptv.club/api/huya.php?id=11342434
+小牡蛎,https://live.goodiptv.club/api/huya.php?id=11352962
+微风孝王都,https://live.goodiptv.club/api/huya.php?id=26355794
+顾九撩电影,https://live.goodiptv.club/api/huya.php?id=16422212
+爆款手机评测,https://live.goodiptv.club/api/huya.php?id=26355815
+来听歌呀,https://live.goodiptv.club/api/huya.php?id=11352913
+我很忙,https://live.goodiptv.club/api/huya.php?id=11352950
+船长电影解说,https://live.goodiptv.club/api/huya.php?id=24983280
+皮皮猫影视,https://live.goodiptv.club/api/huya.php?id=23310352
+科技宅男,https://live.goodiptv.club/api/huya.php?id=20985785
+微微爱宝宝,https://live.goodiptv.club/api/huya.php?id=11342422
+酱婶儿电影,https://live.goodiptv.club/api/huya.php?id=24396474
+不问影探,https://live.goodiptv.club/api/huya.php?id=25013685
+可乐撩电影,https://live.goodiptv.club/api/huya.php?id=20045465
+御所田南通,https://live.goodiptv.club/api/huya.php?id=26355773
+同芋螺,https://live.goodiptv.club/api/huya.php?id=26355801
+歪嘴说电影,https://live.goodiptv.club/api/huya.php?id=25261589
+曾繼君,https://live.goodiptv.club/api/huya.php?id=26355833
+生活技巧,https://live.goodiptv.club/api/huya.php?id=20985833
+村村就爱玩,https://live.goodiptv.club/api/huya.php?id=21059605
+大漠李白,https://live.goodiptv.club/api/huya.php?id=26355861
+UniqueToo,https://live.goodiptv.club/api/huya.php?id=20985806
+螺丝也可爱,https://live.goodiptv.club/api/huya.php?id=21059604
+袖中忽见洮河北,https://live.goodiptv.club/api/huya.php?id=26355788
+吐槽运动,https://live.goodiptv.club/api/huya.php?id=11342436
+涵哥评电影,https://live.goodiptv.club/api/huya.php?id=16865726
+舞困尺蠖,https://live.goodiptv.club/api/huya.php?id=26355832
+小翼看人文,https://live.goodiptv.club/api/huya.php?id=27325280
+OPPO新机发售,https://live.goodiptv.club/api/huya.php?id=26355813
+老板给次机会吧,https://live.goodiptv.club/api/huya.php?id=23829447
+脑壳不太好,https://live.goodiptv.club/api/huya.php?id=11602042
+鹿哥电影,https://live.goodiptv.club/api/huya.php?id=24396360
+香港刑侦实录,https://live.goodiptv.club/api/huya.php?id=23865058
+飙车的老司机,https://live.goodiptv.club/api/huya.php?id=11352894
+此人皆怪怒,https://live.goodiptv.club/api/huya.php?id=26355779
+魅友俱乐部,https://live.goodiptv.club/api/huya.php?id=26355805
+小海蒗,https://live.goodiptv.club/api/huya.php?id=25901991
+续哥说电影,https://live.goodiptv.club/api/huya.php?id=24396472
+池邊苏爾,https://live.goodiptv.club/api/huya.php?id=26355821
+我叫山鸡哥,https://live.goodiptv.club/api/huya.php?id=23734246
+云斑裸頰虾虎鱼锚参科,https://live.goodiptv.club/api/huya.php?id=26355766
+安心是藥與君同,https://live.goodiptv.club/api/huya.php?id=26355827
+周星驰吧,https://live.goodiptv.club/api/huya.php?id=21136378
+小东北侃大片,https://live.goodiptv.club/api/huya.php?id=23110321
+大龙Dallon,https://live.goodiptv.club/api/huya.php?id=28061673
+Fighter,https://live.goodiptv.club/api/huya.php?id=11352949
+马桶吐槽,https://live.goodiptv.club/api/huya.php?id=17089779
+小翼看科技,https://live.goodiptv.club/api/huya.php?id=27318871
+铁血真汉子,https://live.goodiptv.club/api/huya.php?id=11342395
+7块说故事,https://live.goodiptv.club/api/huya.php?id=27661804
+茶啊二中,https://live.goodiptv.club/api/huya.php?id=11213191
+阿森木木木,https://live.goodiptv.club/api/huya.php?id=11601971
+维思维,https://live.goodiptv.club/api/huya.php?id=20985802
+机动战士驾驶科目3,https://live.goodiptv.club/api/huya.php?id=26355764
+赛文777,https://live.goodiptv.club/api/huya.php?id=21059607
+9292-泰迪熊【佛系】,https://live.goodiptv.club/api/huya.php?id=18591425
+集梦电脑装机手机维修,https://live.goodiptv.club/api/huya.php?id=12255327
+小武电影,https://live.goodiptv.club/api/huya.php?id=26942609
+主播黑猫,https://live.goodiptv.club/api/huya.php?id=11352896
+小米新机播报,https://live.goodiptv.club/api/huya.php?id=26355807
+稻谷Movie,https://live.goodiptv.club/api/huya.php?id=25767728
+大圣探世界,https://live.goodiptv.club/api/huya.php?id=27624382
+面对疾风-,https://live.goodiptv.club/api/huya.php?id=11352904
+二哥说电影,https://live.goodiptv.club/api/huya.php?id=24969013
+火华君说电影,https://live.goodiptv.club/api/huya.php?id=27312232
+斯国一,https://live.goodiptv.club/api/huya.php?id=11352905
+西哥来了,https://live.goodiptv.club/api/huya.php?id=10849208
+韩小囧说电影,https://live.goodiptv.club/api/huya.php?id=20695907
+虎虎大神,https://live.goodiptv.club/api/huya.php?id=25751865
+沫漾电影,https://live.goodiptv.club/api/huya.php?id=15556391
+阿叁,https://live.goodiptv.club/api/huya.php?id=20969141
+雨婷讲电影,https://live.goodiptv.club/api/huya.php?id=21638737
+Apple手机快发资讯,https://live.goodiptv.club/api/huya.php?id=26355817
+迷失,https://live.goodiptv.club/api/huya.php?id=11602041
+葱花,https://live.goodiptv.club/api/huya.php?id=11352938
+SMG吐槽担当,https://live.goodiptv.club/api/huya.php?id=11352961
+第十门,https://live.goodiptv.club/api/huya.php?id=11352883
+阿汤哥的影迷,https://live.goodiptv.club/api/huya.php?id=21059585
+虎牙放映厅,https://live.goodiptv.club/api/huya.php?id=11602077
+性感大妈,https://live.goodiptv.club/api/huya.php?id=11602075
+露露姐,https://live.goodiptv.club/api/huya.php?id=11601964
+我是一颗小虎牙,https://live.goodiptv.club/api/huya.php?id=21059599
+酒窝储存机,https://live.goodiptv.club/api/huya.php?id=11602043
+为所欲为的墨镜哥,https://live.goodiptv.club/api/huya.php?id=23865161
+过儿想姑姑了,https://live.goodiptv.club/api/huya.php?id=23749068
+包租婆不停水,https://live.goodiptv.club/api/huya.php?id=21059568
+老电影故事,https://live.goodiptv.club/api/huya.php?id=15267139
+昵称违规-CO7LZ4EbMq,https://live.goodiptv.club/api/huya.php?id=11336593
+Amy姐,https://live.goodiptv.club/api/huya.php?id=23746486
+泡面微剧场,https://live.goodiptv.club/api/huya.php?id=18368221
+向阳花,https://live.goodiptv.club/api/huya.php?id=11602069
+柒言绝剧,https://live.goodiptv.club/api/huya.php?id=24778726
+大幂幂电影,https://live.goodiptv.club/api/huya.php?id=24986575
+花花与三猫CatLive,https://live.goodiptv.club/api/huya.php?id=15927359
+一片青青草原,https://live.goodiptv.club/api/huya.php?id=11352973
+SMG胖月老,https://live.goodiptv.club/api/huya.php?id=11352947
+喜来乐狮子头,https://live.goodiptv.club/api/huya.php?id=21059580
+DD-钟皮猪,https://live.goodiptv.club/api/huya.php?id=25503760
+炙恋兽兽,https://live.goodiptv.club/api/huya.php?id=11342428
+魔法少女郭德纲,https://live.goodiptv.club/api/huya.php?id=27572242
+七七讲故事,https://live.goodiptv.club/api/huya.php?id=27640544
+长河电影,https://live.goodiptv.club/api/huya.php?id=18986269
+大铁锅炖大大鹅,https://live.goodiptv.club/api/huya.php?id=21059574
+邦邦说,https://live.goodiptv.club/api/huya.php?id=27742258
+威猛先生,https://live.goodiptv.club/api/huya.php?id=11342420
+灭绝失态了,https://live.goodiptv.club/api/huya.php?id=18232669
+讲故事会唱歌的步tian,https://live.goodiptv.club/api/huya.php?id=23011779
+里昂保护的玛蒂达,https://live.goodiptv.club/api/huya.php?id=21059594
+CC看动漫,https://live.goodiptv.club/api/huya.php?id=25393892
+鸡公碗,https://live.goodiptv.club/api/huya.php?id=23734211
+在下葛二蛋,https://live.goodiptv.club/api/huya.php?id=24512024
+小抹香鲛中华小长臂虾,https://live.goodiptv.club/api/huya.php?id=28783325
+正经纪录片,https://live.goodiptv.club/api/huya.php?id=23860049
+怡声,https://live.goodiptv.club/api/huya.php?id=11054752
+一目十影,https://live.goodiptv.club/api/huya.php?id=20449771
+堆仔煲剧,https://live.goodiptv.club/api/huya.php?id=23734176
+寻宝求生,https://live.goodiptv.club/api/huya.php?id=25396569
+默爷侃电影,https://live.goodiptv.club/api/huya.php?id=17204307
+蓝白呀、,https://live.goodiptv.club/api/huya.php?id=25701639
+电影探长,https://live.goodiptv.club/api/huya.php?id=27438374
+妖孽CC,https://live.goodiptv.club/api/huya.php?id=11352945
+雅痞不是帅,https://live.goodiptv.club/api/huya.php?id=11352953
+名门-琳琳,https://live.goodiptv.club/api/huya.php?id=16801277
+黄栗子Ye,https://live.goodiptv.club/api/huya.php?id=22598588
+喝一碗杏仁茶,https://live.goodiptv.club/api/huya.php?id=21059565
+小鹤仙儿,https://live.goodiptv.club/api/huya.php?id=24376361
+港影侦查局,https://live.goodiptv.club/api/huya.php?id=25863169
+大本有剧,https://live.goodiptv.club/api/huya.php?id=24401117
+千与千寻的思考,https://live.goodiptv.club/api/huya.php?id=21059592
+贝勒电影,https://live.goodiptv.club/api/huya.php?id=24770400
+猫丸酱影视,https://live.goodiptv.club/api/huya.php?id=26999674
+小喇叭佩囍,https://live.goodiptv.club/api/huya.php?id=23863778
+TVB追剧小能手,https://live.goodiptv.club/api/huya.php?id=23865179
+小蘑菇,https://live.goodiptv.club/api/huya.php?id=11601981
+汽车人,https://live.goodiptv.club/api/huya.php?id=11352897
+昵称违规-pTSEbHriOn,https://live.goodiptv.club/api/huya.php?id=23863796
+个人向,https://live.goodiptv.club/api/huya.php?id=11352963
+霹雳爷们儿精彩视频,https://live.goodiptv.club/api/huya.php?id=874274
+吞针主播,https://live.goodiptv.club/api/huya.php?id=11352887
+阿飞,https://live.goodiptv.club/api/huya.php?id=11352934
+艾薇宝贝de宝贝,https://live.goodiptv.club/api/huya.php?id=21059554
+yoo,https://live.goodiptv.club/api/huya.php?id=11352876
+电脑装机联盟,https://live.goodiptv.club/api/huya.php?id=20469031
+喧嚣的夏风,https://live.goodiptv.club/api/huya.php?id=10871113
+HUAWEI手机产品线,https://live.goodiptv.club/api/huya.php?id=26355812
+壹车,https://live.goodiptv.club/api/huya.php?id=20969124
+都護鐵衣也君子,https://live.goodiptv.club/api/huya.php?id=26355772
+對君白蜥蜴,https://live.goodiptv.club/api/huya.php?id=26355776
+昵称违规-95tgIDoBHS,https://live.goodiptv.club/api/huya.php?id=23863787
+长沙海底世界,https://live.goodiptv.club/api/huya.php?id=27423636
+一加手机首发,https://live.goodiptv.club/api/huya.php?id=26355814
+TVB职场剧大全,https://live.goodiptv.club/api/huya.php?id=23735153
+江苏政哥攒机,https://live.goodiptv.club/api/huya.php?id=23810101
+VIVO新机看点,https://live.goodiptv.club/api/huya.php?id=26355803
+惡紫之奪氈酒,https://live.goodiptv.club/api/huya.php?id=26355866
+三十既未息,https://live.goodiptv.club/api/huya.php?id=26355846
+銀河少女-,https://live.goodiptv.club/api/huya.php?id=26355760
+电竞也要专用机,https://live.goodiptv.club/api/huya.php?id=26355816
+玩大变成光,https://live.goodiptv.club/api/huya.php?id=21059608
+Latest手机发布会,https://live.goodiptv.club/api/huya.php?id=26355818
+【封心鎖愛】,https://live.goodiptv.club/api/huya.php?id=10105271
+天地間香芒,https://live.goodiptv.club/api/huya.php?id=26355800
+硬核三星,https://live.goodiptv.club/api/huya.php?id=26355819
+如何雨燕,https://live.goodiptv.club/api/huya.php?id=26355796
+一刻talks,https://live.goodiptv.club/api/huya.php?id=17000197
+昵称违规-JBo8XZZWSw,https://live.goodiptv.club/api/huya.php?id=11601965
+美少女咸儿,https://live.goodiptv.club/api/huya.php?id=11336572
+撫孤于人也,https://live.goodiptv.club/api/huya.php?id=26355825
+仙人万戶侯,https://live.goodiptv.club/api/huya.php?id=26355863
+良奉白豆,https://live.goodiptv.club/api/huya.php?id=26355849
+了不起的小萌虎,https://live.goodiptv.club/api/huya.php?id=11342388
+年月犬,https://live.goodiptv.club/api/huya.php?id=26355784
+圣逗事,https://live.goodiptv.club/api/huya.php?id=18390254
+渣子看闹剧,https://live.goodiptv.club/api/huya.php?id=16837764
+有料酒,https://live.goodiptv.club/api/huya.php?id=23043257
+万人影视,https://live.goodiptv.club/api/huya.php?id=16914870
+疯狂解说家,https://live.goodiptv.club/api/huya.php?id=18366196
+我的朋友陈白露小姐,https://live.goodiptv.club/api/huya.php?id=11352917
+我的宝贝baby,https://live.goodiptv.club/api/huya.php?id=11352880
+影音炫客,https://live.goodiptv.club/api/huya.php?id=17811579
+雪球日记qwq,https://live.goodiptv.club/api/huya.php?id=24899717
+一日壹片v,https://live.goodiptv.club/api/huya.php?id=27322701
+尤里有剧,https://live.goodiptv.club/api/huya.php?id=24400965
+嫩模下厨房,https://live.goodiptv.club/api/huya.php?id=23735181
+做人最要紧开心,https://live.goodiptv.club/api/huya.php?id=23824164
+正保会计网校,https://live.goodiptv.club/api/huya.php?id=21112914
+奥雷观影,https://live.goodiptv.club/api/huya.php?id=27626673
+旅行囧记,https://live.goodiptv.club/api/huya.php?id=21428136
+历史揭秘人阿水主播,https://live.goodiptv.club/api/huya.php?id=15821671
+明日香世界第一可爱,https://live.goodiptv.club/api/huya.php?id=21059530
+西瓜讲电影,https://live.goodiptv.club/api/huya.php?id=27742216
+julie,https://live.goodiptv.club/api/huya.php?id=20969142
+辣条讲故事,https://live.goodiptv.club/api/huya.php?id=26848148
+宝可梦剑盾攻略,https://live.goodiptv.club/api/huya.php?id=21634198
+小歌说电影,https://live.goodiptv.club/api/huya.php?id=25443495
+董小姐影视剪辑,https://live.goodiptv.club/api/huya.php?id=26995483
+骚年跟我来听歌,https://live.goodiptv.club/api/huya.php?id=11352974
+跑酷小枫,https://live.goodiptv.club/api/huya.php?id=24915015
+怪侠说,https://live.goodiptv.club/api/huya.php?id=27312777
+鲨手不太冷的影迷,https://live.goodiptv.club/api/huya.php?id=21059586
+追剧少女韩芳芳,https://live.goodiptv.club/api/huya.php?id=26995244
+木子电影V,https://live.goodiptv.club/api/huya.php?id=27314057
+EZQ影视,https://live.goodiptv.club/api/huya.php?id=24396353
+短的发布会,https://live.goodiptv.club/api/huya.php?id=17142127
+少女时代-泰妍,https://live.goodiptv.club/api/huya.php?id=660220
+咆哮解说黑鑫,https://live.goodiptv.club/api/huya.php?id=25018873
+是青哥,https://live.goodiptv.club/api/huya.php?id=24875819
+大板牙电影,https://live.goodiptv.club/api/huya.php?id=24645498
+海哥电影,https://live.goodiptv.club/api/huya.php?id=25789589
+欣姐说剧,https://live.goodiptv.club/api/huya.php?id=28021302
+小杨说电影,https://live.goodiptv.club/api/huya.php?id=23338162
+顶级奢侈,https://live.goodiptv.club/api/huya.php?id=20985814
+电影票妹,https://live.goodiptv.club/api/huya.php?id=24771023
+莫忧忧,https://live.goodiptv.club/api/huya.php?id=24983963
+阿钙扒瞎,https://live.goodiptv.club/api/huya.php?id=15978172
+冷菲菲Vivi,https://live.goodiptv.club/api/huya.php?id=24833420
+怪兽讲电影,https://live.goodiptv.club/api/huya.php?id=25022961
+神奇书包,https://live.goodiptv.club/api/huya.php?id=25368617
+政宗君DE情敌,https://live.goodiptv.club/api/huya.php?id=26704262
+路人QQ,https://live.goodiptv.club/api/huya.php?id=27992631
+花町馆长,https://live.goodiptv.club/api/huya.php?id=24990417
+月色说电影,https://live.goodiptv.club/api/huya.php?id=24534326
+猛志百般红,https://live.goodiptv.club/api/huya.php?id=26355865
+亮哥讲电影2,https://live.goodiptv.club/api/huya.php?id=21059622
+猪猪妹说电影,https://live.goodiptv.club/api/huya.php?id=16457533
+有种过来和我拼菜啊,https://live.goodiptv.club/api/huya.php?id=24891607
+小优漫讲,https://live.goodiptv.club/api/huya.php?id=27630411
+琳儿妹,https://live.goodiptv.club/api/huya.php?id=28287744
+晓杰侃电影,https://live.goodiptv.club/api/huya.php?id=17279509
+阿祥说电影,https://live.goodiptv.club/api/huya.php?id=16868935
+昵称违规-AdKUzor5AU,https://live.goodiptv.club/api/huya.php?id=18719577
+K叔趣侃,https://live.goodiptv.club/api/huya.php?id=27860114
+电商前沿君,https://live.goodiptv.club/api/huya.php?id=19685618
+牛牛牛2021,https://live.goodiptv.club/api/huya.php?id=20432865
+小小萌先生,https://live.goodiptv.club/api/huya.php?id=24481139
+夏天成长记,https://live.goodiptv.club/api/huya.php?id=24887908
+西红柿讲电影,https://live.goodiptv.club/api/huya.php?id=24999835
+威廉说,https://live.goodiptv.club/api/huya.php?id=24969192
+白丁说电影,https://live.goodiptv.club/api/huya.php?id=24396428
+娘子说电影,https://live.goodiptv.club/api/huya.php?id=18964209
+冬至不会飞,https://live.goodiptv.club/api/huya.php?id=24761801
+扎楠灬,https://live.goodiptv.club/api/huya.php?id=24587847
+大郎哥哥在这里,https://live.goodiptv.club/api/huya.php?id=24996596
+旺仔是三七分,https://live.goodiptv.club/api/huya.php?id=24888703
+且听我说,https://live.goodiptv.club/api/huya.php?id=20985820
+户外求生挑战,https://live.goodiptv.club/api/huya.php?id=24816566
+宇宙无敌韩三金,https://live.goodiptv.club/api/huya.php?id=15494057
+木子李说故事,https://live.goodiptv.club/api/huya.php?id=24030276
+刺猬职场说,https://live.goodiptv.club/api/huya.php?id=22717669
+巴巴,https://live.goodiptv.club/api/huya.php?id=23964604
+电影充电站,https://live.goodiptv.club/api/huya.php?id=20064385
+沉睡在你心底的光,https://live.goodiptv.club/api/huya.php?id=20985816
+亿酷影视,https://live.goodiptv.club/api/huya.php?id=25773579
+佑佑说电影,https://live.goodiptv.club/api/huya.php?id=25027809
+新剧不能停,https://live.goodiptv.club/api/huya.php?id=26994605
+Austin的十万个为什么,https://live.goodiptv.club/api/huya.php?id=22531419
+小羊观影记录,https://live.goodiptv.club/api/huya.php?id=25363475
+正经说电影,https://live.goodiptv.club/api/huya.php?id=19583776
+学姐啊学姐,https://live.goodiptv.club/api/huya.php?id=24873265
+笑笑影视Y,https://live.goodiptv.club/api/huya.php?id=24804669
+电影享不停,https://live.goodiptv.club/api/huya.php?id=16873147
+晕倒羊一家,https://live.goodiptv.club/api/huya.php?id=25107026
+麻蛋和丑丑,https://live.goodiptv.club/api/huya.php?id=24803241
+海龙动漫,https://live.goodiptv.club/api/huya.php?id=25886059
+八零影漫,https://live.goodiptv.club/api/huya.php?id=27236095
+恐怖电影猪哥,https://live.goodiptv.club/api/huya.php?id=14015002
+十趣文化,https://live.goodiptv.club/api/huya.php?id=23707143
+十三神故事,https://live.goodiptv.club/api/huya.php?id=24866426
+热播君V,https://live.goodiptv.club/api/huya.php?id=26999401
+小葛电影,https://live.goodiptv.club/api/huya.php?id=24612444
+清酒电影,https://live.goodiptv.club/api/huya.php?id=23058985
+九汐探长,https://live.goodiptv.club/api/huya.php?id=23539969
+小邓子解说师,https://live.goodiptv.club/api/huya.php?id=25220145
+布丁仔和泡芙妹的一天,https://live.goodiptv.club/api/huya.php?id=24936380
+空空说电影,https://live.goodiptv.club/api/huya.php?id=15923500
+辉叔探影,https://live.goodiptv.club/api/huya.php?id=24531751
+Sir说电影,https://live.goodiptv.club/api/huya.php?id=16626185
+桃白柏,https://live.goodiptv.club/api/huya.php?id=15958655
+白鹤电影呀,https://live.goodiptv.club/api/huya.php?id=27989418
+我是一颗小虎牙,https://live.goodiptv.club/api/huya.php?id=17904870
+刘金玉,https://live.goodiptv.club/api/huya.php?id=23043797
+少女时代-Sunny,https://live.goodiptv.club/api/huya.php?id=660221
+彤颜童语,https://live.goodiptv.club/api/huya.php?id=19398022
+元宝撸奇案,https://live.goodiptv.club/api/huya.php?id=23759395
+电影十里廊,https://live.goodiptv.club/api/huya.php?id=16801558
+爆米电影,https://live.goodiptv.club/api/huya.php?id=24936375
+艾莉,https://live.goodiptv.club/api/huya.php?id=20969144
+仕说电影,https://live.goodiptv.club/api/huya.php?id=24791905
+上班偷偷追个剧,https://live.goodiptv.club/api/huya.php?id=26995378
+鬼鬼很OK,https://live.goodiptv.club/api/huya.php?id=24792285
+我是一颗小虎牙,https://live.goodiptv.club/api/huya.php?id=25441779
+桑葚好吃吗,https://live.goodiptv.club/api/huya.php?id=24888724
+虎牙观影团,https://live.goodiptv.club/api/huya.php?id=880219
+狂野女孩i了吗,https://live.goodiptv.club/api/huya.php?id=21059559
+演员管轩,https://live.goodiptv.club/api/huya.php?id=23493957
+仕玲沙画,https://live.goodiptv.club/api/huya.php?id=24529903
+演员方安娜,https://live.goodiptv.club/api/huya.php?id=22151150
+左手的扑克v,https://live.goodiptv.club/api/huya.php?id=24577218
+搞笑007,https://live.goodiptv.club/api/huya.php?id=24992246
+扒点影视解说,https://live.goodiptv.club/api/huya.php?id=24531823
+这很不同,https://live.goodiptv.club/api/huya.php?id=11602067
+fromis9-NAGYUNG,https://live.goodiptv.club/api/huya.php?id=691253
+舞王驾到,https://live.goodiptv.club/api/huya.php?id=11342438
+会魔法的恩仔,https://live.goodiptv.club/api/huya.php?id=24532630
+【娱乐虎星球】印象之夜,https://live.goodiptv.club/api/huya.php?id=21103943
+桂林,https://live.goodiptv.club/api/huya.php?id=16596448
+斌哥漫说2,https://live.goodiptv.club/api/huya.php?id=21059621
+PENTAGON-高信源,https://live.goodiptv.club/api/huya.php?id=347523
+fromis9-CHAEYOUNG,https://live.goodiptv.club/api/huya.php?id=691261
+宏兵宏老大,https://live.goodiptv.club/api/huya.php?id=24701189
+火皇皇THREEH,https://live.goodiptv.club/api/huya.php?id=24724595
+昵称违规-291AplnKdh,https://live.goodiptv.club/api/huya.php?id=22149408
+老吴说电影,https://live.goodiptv.club/api/huya.php?id=16740471
+喜仔的动画世界,https://live.goodiptv.club/api/huya.php?id=20036751
+游戏小萌主,https://live.goodiptv.club/api/huya.php?id=16915640
+虎牙技术学堂,https://live.goodiptv.club/api/huya.php?id=18945977
+备胎说车,https://live.goodiptv.club/api/huya.php?id=20985836
+电影间谍,https://live.goodiptv.club/api/huya.php?id=16149609
+正恒YJ-猫猫酱,https://live.goodiptv.club/api/huya.php?id=21509833
+一席YIXI,https://live.goodiptv.club/api/huya.php?id=20985840
+小亮亮,https://live.goodiptv.club/api/huya.php?id=11342432
+小冷说电影,https://live.goodiptv.club/api/huya.php?id=16739452
+呆瓜侃电影,https://live.goodiptv.club/api/huya.php?id=26714197
+观影说史,https://live.goodiptv.club/api/huya.php?id=27312822
+邻家少女,https://live.goodiptv.club/api/huya.php?id=11352878
+我是一颗小虎牙1186,https://live.goodiptv.club/api/huya.php?id=20525774
+小冉看电影,https://live.goodiptv.club/api/huya.php?id=17341907
+黑眼侃片,https://live.goodiptv.club/api/huya.php?id=24609357
+小林讲电影,https://live.goodiptv.club/api/huya.php?id=18368391
+酒后探真言,https://live.goodiptv.club/api/huya.php?id=660260
+陌离-小欣,https://live.goodiptv.club/api/huya.php?id=11342397
+左左说电影,https://live.goodiptv.club/api/huya.php?id=25027708
+老皮讲电影,https://live.goodiptv.club/api/huya.php?id=16968572
+无比看电影精选,https://live.goodiptv.club/api/huya.php?id=19450129
+hihiji,https://live.goodiptv.club/api/huya.php?id=24982176
+猫哥影视,https://live.goodiptv.club/api/huya.php?id=23566617
+东方先生i,https://live.goodiptv.club/api/huya.php?id=24396323
+虎妞说电影,https://live.goodiptv.club/api/huya.php?id=20343144
+水仙花动漫,https://live.goodiptv.club/api/huya.php?id=26931061
+影视工厂,https://live.goodiptv.club/api/huya.php?id=26995216
+木吒影视,https://live.goodiptv.club/api/huya.php?id=24535077
+黄金屋,https://live.goodiptv.club/api/huya.php?id=20969119
+白泽字幕2号,https://live.goodiptv.club/api/huya.php?id=23784008
+电影东北球王,https://live.goodiptv.club/api/huya.php?id=880286
+二叔托马斯,https://live.goodiptv.club/api/huya.php?id=27817468
+比尔电影,https://live.goodiptv.club/api/huya.php?id=17227870
+白菘无人省,https://live.goodiptv.club/api/huya.php?id=26355864
+虎牙直播星盛典非凡之夜,https://live.goodiptv.club/api/huya.php?id=880101
+小丽说电影,https://live.goodiptv.club/api/huya.php?id=20056437
+金天影视,https://live.goodiptv.club/api/huya.php?id=27309072
+大葱电影,https://live.goodiptv.club/api/huya.php?id=26332024
+亦寒电影,https://live.goodiptv.club/api/huya.php?id=25368353
+关灯看大片,https://live.goodiptv.club/api/huya.php?id=16135863
+怀旧电影厅,https://live.goodiptv.club/api/huya.php?id=25863244
+古惑电影,https://live.goodiptv.club/api/huya.php?id=27318500
+一口毒奶,https://live.goodiptv.club/api/huya.php?id=16144261
+羊肉泡馍加个剧,https://live.goodiptv.club/api/huya.php?id=27001824
+北岛南城,https://live.goodiptv.club/api/huya.php?id=11601962
+腾讯游戏品牌官方,https://live.goodiptv.club/api/huya.php?id=616201
+無尾魚°,https://live.goodiptv.club/api/huya.php?id=11601961
+【态度】官方节目,https://live.goodiptv.club/api/huya.php?id=21103951
+魏宏宇WHY,https://live.goodiptv.club/api/huya.php?id=24701960
+揽星-丰哥,https://live.goodiptv.club/api/huya.php?id=25611853
+貂妹电影,https://live.goodiptv.club/api/huya.php?id=16135154
+WayV-刘扬扬,https://live.goodiptv.club/api/huya.php?id=660476
+非同说电影,https://live.goodiptv.club/api/huya.php?id=20482574
+云儿,https://live.goodiptv.club/api/huya.php?id=22176049
+fromis9-SAEROM,https://live.goodiptv.club/api/huya.php?id=691255
+Casper卡斯柏,https://live.goodiptv.club/api/huya.php?id=21426772
+陈冰kiki,https://live.goodiptv.club/api/huya.php?id=22144263
+小驴影视,https://live.goodiptv.club/api/huya.php?id=24531382
+昵称违规-5W3JAeeEfC,https://live.goodiptv.club/api/huya.php?id=22360453
+韦支书野狼团,https://live.goodiptv.club/api/huya.php?id=24592574
+嘤嘤嘤,https://live.goodiptv.club/api/huya.php?id=11336579
+陈泽希,https://live.goodiptv.club/api/huya.php?id=21411905
+科技有趣玩,https://live.goodiptv.club/api/huya.php?id=25108267
+导演我太难了,https://live.goodiptv.club/api/huya.php?id=880248
+NCT127-道英,https://live.goodiptv.club/api/huya.php?id=637216
+少女时代-俞利,https://live.goodiptv.club/api/huya.php?id=637215
+中国探月太空萌兔,https://live.goodiptv.club/api/huya.php?id=23663418
+坚定希望,https://live.goodiptv.club/api/huya.php?id=21059529
+仙人有待尔垂钩,https://live.goodiptv.club/api/huya.php?id=26355841
+淘宝电影制片厂,https://live.goodiptv.club/api/huya.php?id=11336575
+EXO-伯贤,https://live.goodiptv.club/api/huya.php?id=660204
+EXO-世勋,https://live.goodiptv.club/api/huya.php?id=660205
+调酒师-扬扬,https://live.goodiptv.club/api/huya.php?id=24578055
+校长谈恋爱,https://live.goodiptv.club/api/huya.php?id=17980620
+南跃-俊轩,https://live.goodiptv.club/api/huya.php?id=10299733
+虎牙影视厅,https://live.goodiptv.club/api/huya.php?id=16020072
+NCT127-在玹,https://live.goodiptv.club/api/huya.php?id=637218
+小橋流水黃领,https://live.goodiptv.club/api/huya.php?id=26355842
+三不好學生,https://live.goodiptv.club/api/huya.php?id=11602031
+沙雕梗叔叔,https://live.goodiptv.club/api/huya.php?id=24648680
+舍前棕,https://live.goodiptv.club/api/huya.php?id=26355844
+粳稻纷纷苎蘿山,https://live.goodiptv.club/api/huya.php?id=26355843
+走哪吃哪,https://live.goodiptv.club/api/huya.php?id=24481231
+fromis9-JIWON,https://live.goodiptv.club/api/huya.php?id=691251
+娱乐大王牌,https://live.goodiptv.club/api/huya.php?id=880242
+SuperJunior-东海,https://live.goodiptv.club/api/huya.php?id=660371
+靠谱女青年高小婷,https://live.goodiptv.club/api/huya.php?id=11342392
+EXO-灿烈,https://live.goodiptv.club/api/huya.php?id=660275
+神行大宝,https://live.goodiptv.club/api/huya.php?id=24514506
+刑罚梅乾,https://live.goodiptv.club/api/huya.php?id=691257
+糖水桃,https://live.goodiptv.club/api/huya.php?id=24483485
+SuperJunior-银赫,https://live.goodiptv.club/api/huya.php?id=660274
+志晟-NCTDREAM,https://live.goodiptv.club/api/huya.php?id=660268
+沙雕剧情梗中梗,https://live.goodiptv.club/api/huya.php?id=24648646
+超能力是放pi,https://live.goodiptv.club/api/huya.php?id=11352906
+张医生,https://live.goodiptv.club/api/huya.php?id=11342415
+SuperJunior-希澈,https://live.goodiptv.club/api/huya.php?id=660273
+洛基的小蛇,https://live.goodiptv.club/api/huya.php?id=19582933
+沙雕影视逗你笑,https://live.goodiptv.club/api/huya.php?id=24644066
+
+🔫埋堆堆,#genre#
+埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
+埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
+埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
+埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
+埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
+埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
+埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
+埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
+埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
+🍒｜女团太妍,#genre#
+韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
+韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国歌团004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国歌团005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国歌团006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国歌团007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国歌团008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国歌团009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国歌团010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国歌团011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韩国歌团012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国歌团013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国歌团014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国歌团015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国歌团016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国歌团017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国歌团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国歌团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国歌团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+歌团★024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+歌团★025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+歌团★026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+歌团★027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+歌团★029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+歌团★030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+歌团★031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+歌团★032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+歌团★033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+歌团★034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+歌团★035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+歌团★036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+歌团★037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+歌团★038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+歌团★040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+歌团★041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+歌团★042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+歌团★043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+歌团★044,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+歌团★045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+歌团★046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+歌团★047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+歌团★048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+歌团★049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+歌团★050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+歌团★051,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+歌团★052,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+歌团★053,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+歌团★054,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+歌团★055,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+歌团★056,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+歌团★057,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+歌团★058,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+歌团★059,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+歌团★060,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+歌团★061,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+歌团★062,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+歌团★063,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+歌团★064,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+歌团★065,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+歌团★066,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+歌团★067,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+歌团★068,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+歌团★069,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+歌团★070,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+歌团★071,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+歌团★072,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+歌团★074,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+歌团★075,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+歌团★076,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+歌团★077,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+歌团★078,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+歌团★079,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+歌团★080,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+歌团★081,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+歌团★082,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+歌团★083,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+歌团★084,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+歌团★085,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+歌团★086,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+歌团★087,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+歌团★088,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+歌团★089,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+歌团★090,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+歌团★092,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+歌团★093,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+歌团★094,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+歌团★095,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+歌团★096,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+歌团★097,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+歌团★098,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+歌团★099,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+歌团★100,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+歌团★101,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+歌团★102,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+歌团★103,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+歌团★104,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+歌团★105,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+歌团★106,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+歌团★107,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+歌团★108,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+歌团★109,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+歌团★110,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+歌团★111,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+歌团★112,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+歌团★113,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+歌团★114,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+歌团★115,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+歌团★116,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+歌团★117,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+歌团★118,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+歌团★119,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+歌团★120,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+歌团★121,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+歌团★122,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+歌团★123,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+歌团★125,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+歌团★126,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+歌团★127,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+歌团★128,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+歌团★129,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+歌团★130,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+歌团★131,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+歌团★132,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+歌团★133,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+歌团★134,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+歌团★135,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+歌团★136,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+歌团★137,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+歌团★138,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+歌团★139,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+歌团★140,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+歌团★141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+歌团★142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+歌团★143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+歌团★145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+歌团★146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+歌团★147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+歌团★148,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+歌团★149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+歌团★150,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+歌团★151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+韩国太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+韩国太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+韩国太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+韩国太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韩国太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韩国太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+韩国太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韩国太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韩国太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韩国太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+韩国太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+韩国太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韩国太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+韩国太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韩国太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+韩国太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韩国太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+韩国太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+韩国太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+韩国太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+韩国太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+韩国太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+韩国太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+韩国太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+韩国太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+韩国太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+韩国太妍34,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+韩国太妍35,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+韩国太妍36,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+韩国太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
